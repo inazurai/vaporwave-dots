@@ -1,4 +1,4 @@
-# vapor-dotfiles
+# aesthetic dotfiles
 **Package list included.**
 
 *Installation instructions:*
