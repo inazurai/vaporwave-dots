@@ -4,7 +4,7 @@
 *Installation instructions:*
 
 
-git clone https://github.com/inazurai/vapor-dotfiles/
+git clone https://github.com/inazurai/vaporwave-dots
 
 sudo xbps-install -S $(packagelist.txt)
 
